@@ -18,6 +18,7 @@ Social platform for sharing funny daily experiences.
 
 ---
 
-Feel free to check out my **[Portfolio](https://github.com/ericbreh/ericbreh/portfolio)** for more!
+Feel free to check out my **[Portfolio](https://github.com/ericbreh/ericbreh/tree/main/portfolio)** for more!
+
 
 ---
