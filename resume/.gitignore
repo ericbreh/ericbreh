@@ -1,0 +1,11 @@
+# Ignore everything
+*
+*/*
+
+# Don't ignore these file types
+!*.tex
+!*.pdf
+!*.md
+
+# Don't ignore .gitignore
+!.gitignore

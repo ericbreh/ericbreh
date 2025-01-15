@@ -1,0 +1,224 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+  \textbf{\Huge \scshape Eric Chuang} \\ \vspace{1pt}
+  \small 650-200-5420 $|$ \href{mailto:echuang1@ucsc.edu}{\underline{echuang1@ucsc.edu}} $|$
+  % \href{https://linkedin.com/in/...}{\underline{linkedin.com/in/echuang1}} $|$
+  \href{https://github.com/ericbreh}{\underline{github.com/ericbreh}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+\resumeSubheading
+{University of California - Santa Cruz}{September 2022 -- June 2025}
+{Bachelor of Science in Computer Engineering}{3.95 GPA}
+\resumeItemListStart
+\resumeItem{Relevant courses: Data Structures and Algorithms, Computer Systems Design, Logic Design, Computer Architecture, Parallel and Concurrent Programming, VLSI Digital System Design, Verilog Project to Silicon}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Software Engineer}{March 2024 -- June 2024}
+{College Sauce}{Santa Barbara, CA}
+\resumeItemListStart
+\resumeItem{Developed a Python web scraping script to automatically extract and load course information into PostgreSQL database, saving 50+ hours of manual work per year and ensuring data accuracy}
+\resumeItem{Coordinated with a remote team to develop a mobile app's chat functionality specifically tailored to encourage communication and collaboration among 4,500+ UC Santa Barbara students}
+\resumeItemListEnd
+
+\resumeSubheading
+{Group Tutor}{January 2024 -- April 2024}
+{University of California - Santa Cruz}{Santa Cruz, CA}
+\resumeItemListStart
+\resumeItem{Guided students in the class ‘Beginning Programming in Python’ through debugging and problem-solving techniques on programming assignments}
+\resumeItem{Provided online support to 200+ students, clarifying concepts and course material}
+\resumeItemListEnd
+
+\resumeSubheading
+{Assistant Manager}{March 2020 -- September 2022}
+{Belmont Bikes}{Belmont, CA}
+\resumeItemListStart
+\resumeItem{Oversaw daily operations in a fast-paced environment}
+\resumeItem{Prioritized and delegated tasks to ensure efficient workflow}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+% {\textbf{\href{https://apps.apple.com/us/app/ucsc-menu/id1670523487?platform=iphone}{\color{blue}\underline{UCSC Menu App}}} $|$ \emph{Flutter, Go, Firebase, Google Cloud Platform}}{}
+% https://github.com/nunibye/Menu-App
+{\textbf{UCSC Menu App} $|$ \emph{Flutter, Go, Firebase, Google Cloud Platform}}{}
+\resumeItemListStart
+\resumeItem{Developed and maintained an app supporting 3,000+ users checking daily menus at on-campus dining halls}
+\resumeItem{Optimized backend data-fetching tool by implementing multithreading, reducing runtime by over 50\%}
+\resumeItem{Enhanced reliability and uptime by continually adapting to evolving requirements}
+\resumeItemListEnd
+
+\resumeProjectHeading
+% {\textbf{\href{https://apps.apple.com/us/app/eko/id6470772031?platform=iphone}{\color{blue}\underline{Eko Social Media App}}} $|$ \emph{Flutter, Go, Firebase, Google Cloud Platform}}{}
+% https://github.com/nunibye/Eko
+{\textbf{Eko Social Media App} $|$ \emph{Flutter, Go, Firebase, Google Cloud Platform}}{}
+\resumeItemListStart
+\resumeItem{Created a fully featured social media app where 100+ active users share funny posts about their daily experiences}
+\resumeItem{Coordinated with 30+ beta testers to gather feedback, identify bugs, and understand user needs}
+\resumeItem{Used the MVVM architecture to ensure a clean, maintainable, and testable codebase}
+\resumeItem{Key features include a customizable feed, notifications, user search, text/GIF posts, and user interactions such as following, blocking, and tagging}
+\resumeItemListEnd
+
+\resumeProjectHeading
+% {\textbf{\href{https://github.com/christianknab/peergrader}{\color{blue}\underline{PeerGrader}}}  $|$ \emph{React, Next.js, Supabase, Javascript/Typescript, SQL}}{}
+{\textbf{PeerGrader}  $|$ \emph{React, Next.js, Supabase, Javascript/Typescript, SQL}}{}
+\resumeItemListStart
+\resumeItem{Built a peer-grading platform for students to submit and review assignments}
+\resumeItem{Integrated feedback from UCSC students and professors to refine and improve upon existing options}
+\resumeItem{Coordinated with a team using the Scrum methodology utilizing regular standups and sprint planning}
+\resumeItemListEnd
+
+\resumeProjectHeading
+% {\textbf{\href{https://github.com/ericbreh/face-watcher}{\color{blue}\underline{Real-Time Facial Recognition System}}}  $|$ \emph{Python, OpenCV, DeepFace}}{}
+{\textbf{Real-Time Facial Recognition System}  $|$ \emph{Python, OpenCV, DeepFace}}{}
+\resumeItemListStart
+\resumeItem{Implemented a real-time facial recognition system to detect and match faces with high accuracy, ensuring robust performance across diverse conditions}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{
+        \textbf{Languages}{: Python, Go, C/C++, Dart, Javascript/Typescript, HTML/CSS, SQL, SystemVerilog} \\
+        \textbf{Frameworks}{: Flutter, React, Node.js, Next.js, Remix, Tailwind CSS} \\
+        \textbf{Technologies}{: Google Cloud Platform, Firebase, Supabase, IOS/Android App Development, OpenCV, DeepFace, Playwright, Selenium} \\
+        \textbf{Developer Tools}{: Git, Docker} \\
+        }}
+\end{itemize}
+
+
+%-------------------------------------------
+\end{document}
+1
