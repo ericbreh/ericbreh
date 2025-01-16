@@ -8,7 +8,7 @@ I'm a Computer Engineering student at UC Santa Cruz, graduating June 2025 and se
 
 [![App Store](https://img.shields.io/badge/Download_on_the_App_Store-black.svg?style=flat-square&logo=apple)](https://apps.apple.com/us/app/ucsc-menu/id1670523487?platform=iphone)
 [![Google Play](https://img.shields.io/badge/Download_on_Google_Play-black.svg?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.orderOfTheCone.android.menu_app&hl=en_US&pli=1)  
-Mobile app serving 3,000+ students with real-time dining hall menu information.  
+Mobile app serving dining hall menu information.  
 
 ### Eko Social Media App
 
