@@ -8,6 +8,7 @@ Software Developer & Computer Engineering Student
 
 ### UCSC Menu App
 
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=github)](https://github.com/nunibye/menu-app)
 [![App Store](https://img.shields.io/badge/Download_on_the_App_Store-black.svg?style=flat-square&logo=apple)](https://apps.apple.com/us/app/ucsc-menu/id1670523487?platform=iphone)
 [![Google Play](https://img.shields.io/badge/Download_on_Google_Play-black.svg?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.orderOfTheCone.android.menu_app&hl=en_US&pli=1)
 
@@ -25,6 +26,7 @@ Software Developer & Computer Engineering Student
 
 ### Eko Social Media App
 
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=github)](https://github.com/nunibye/eko)
 [![App Store](https://img.shields.io/badge/Download_on_the_App_Store-black.svg?style=flat-square&logo=apple)](https://apps.apple.com/us/app/eko/id6470772031?platform=iphone)
 [![Google Play](https://img.shields.io/badge/Download_on_Google_Play-black.svg?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.echo.android&hl=en_US)
 
@@ -47,7 +49,7 @@ Software Developer & Computer Engineering Student
 
 ### PeerGrader
 
-[![GitHub](https://img.shields.io/badge/View_on-GitHub-gray.svg?style=flat-square&logo=github)](https://github.com/christianknab/peergrader)
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=github)](https://github.com/christianknab/peergrader)
 
 `React` `Next.js` `Supabase` `TypeScript` `SQL`
 
@@ -64,7 +66,7 @@ Software Developer & Computer Engineering Student
 
 ### Real-Time Facial Recognition System
 
-[![GitHub](https://img.shields.io/badge/View_on-GitHub-gray.svg?style=flat-square&logo=github)](https://github.com/ericbreh/face-watcher)
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=github)](https://github.com/ericbreh/face-watcher)
 
 `Python` `OpenCV` `DeepFace` `NumPy`
 
@@ -80,7 +82,7 @@ Software Developer & Computer Engineering Student
 
 ### Automated Group Dinner Planner Bot
 
-[![GitHub](https://img.shields.io/badge/View_on-GitHub-gray.svg?style=flat-square&logo=github)](https://github.com/ericbreh/instagram-message-bot/blob/main/dinnerbot.py)
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=github)](https://github.com/ericbreh/instagram-message-bot/blob/main/dinnerbot.py)
 
 `Python` `Playwright`
 
