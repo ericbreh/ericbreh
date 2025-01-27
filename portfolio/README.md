@@ -22,7 +22,7 @@ Software Developer & Computer Engineering Student
 - Implemented multithreading optimizations, cutting backend data-fetching time by 50%+
 - Maintained consistent uptime through proactive adaptation to changing requirements
 
-![UCSC Menu App](<UCSC-Menu-App.jpg>)
+![UCSC Menu App](<menu-app.svg>)
 
 ---
 
@@ -47,7 +47,7 @@ Software Developer & Computer Engineering Student
   - Social features (following, blocking, tagging)
 - Managed beta testing program with 30+ active testers
   
-![Eko](Eko.jpg)
+![Eko](<eko.svg>)
 
 ---
 
