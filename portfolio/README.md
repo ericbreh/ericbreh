@@ -22,6 +22,8 @@ Software Developer & Computer Engineering Student
 - Implemented multithreading optimizations, cutting backend data-fetching time by 50%+
 - Maintained consistent uptime through proactive adaptation to changing requirements
 
+![UCSC Menu App](<UCSC-Menu-App.jpg>)
+
 ---
 
 ### Eko Social Media App
@@ -44,6 +46,8 @@ Software Developer & Computer Engineering Student
   - Text and GIF post support
   - Social features (following, blocking, tagging)
 - Managed beta testing program with 30+ active testers
+  
+![Eko](Eko.jpg)
 
 ---
 
@@ -80,6 +84,20 @@ Software Developer & Computer Engineering Student
 
 ---
 
+### Snail Mail
+
+`Flutter` `Supabase` `SQL`
+
+**Overview:** Messaging platform designed for safe, meaningful communication between children and older family members
+
+**Features:**
+
+- Gamified Messaging: Enhances engagement with fun, interactive elements
+- Secure Communication: Only approved contacts can connect, ensuring user safety
+- Creative Personalization: Decorate and customize messages with stickers and avatars
+
+---
+
 ### Automated Group Dinner Planner Bot
 
 [![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=github)](https://github.com/ericbreh/instagram-message-bot/blob/main/dinnerbot.py)
@@ -100,6 +118,8 @@ Software Developer & Computer Engineering Student
 
 ### UART ALU on FPGA
 
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=github)](https://github.com/ericbreh/verilog-project-to-silicon/tree/main/fpga-uart-alu)
+
 `Verilog` `SystemVerilog`
 
 **Overview:** Hardware implementation of an Arithmetic Logic Unit with UART control
@@ -114,7 +134,7 @@ Software Developer & Computer Engineering Student
 
 ### Multi-Threaded HTTP Server
 
-`C`
+`C` `Pthreads`
 
 **Overview:** Concurrent HTTP server implementation focusing on performance and reliability
 
