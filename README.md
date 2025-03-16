@@ -1,6 +1,6 @@
 # Hi, I'm Eric 👋
 
-I'm a Computer Engineering student at UC Santa Cruz, graduating in June 2025. Here are a few of my projects:
+I'm a Computer Engineering student at UC Santa Cruz. Here are a few of my projects:
 
 ---
 
