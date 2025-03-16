@@ -118,7 +118,7 @@ Software Developer & Computer Engineering Student
 
 ### UART ALU on FPGA
 
-[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=github)](https://github.com/ericbreh/verilog-project-to-silicon/tree/main/fpga-uart-alu)
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=flat-square&logo=github)](https://github.com/ericbreh/fpga-uart-alu)
 
 `Verilog` `SystemVerilog`
 
